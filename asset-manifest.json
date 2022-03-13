@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.9cd93211.css",
+    "main.css": "/static/css/main.152eb1b8.css",
     "main.js": "/static/js/main.c81d7cf9.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/KGLan2019.png": "/static/media/KGLan2019.9f6c3d718742841757a7.png",
@@ -28,12 +28,12 @@
     "static/media/en_lipp.svg": "/static/media/en_lipp.099e9374154e4a21c076.svg",
     "static/media/et_lipp.svg": "/static/media/et_lipp.ec8f4e9e09baa2622c51.svg",
     "index.html": "/index.html",
-    "main.9cd93211.css.map": "/static/css/main.9cd93211.css.map",
+    "main.152eb1b8.css.map": "/static/css/main.152eb1b8.css.map",
     "main.c81d7cf9.js.map": "/static/js/main.c81d7cf9.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9cd93211.css",
+    "static/css/main.152eb1b8.css",
     "static/js/main.c81d7cf9.js"
   ]
 }
