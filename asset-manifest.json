@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.27ab6763.css",
-    "main.js": "/static/js/main.73baffa5.js",
+    "main.css": "/static/css/main.480fdabe.css",
+    "main.js": "/static/js/main.353a7505.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/KGLan2019.png": "/static/media/KGLan2019.9f6c3d718742841757a7.png",
     "static/media/Praktikakohvik2022.png": "/static/media/Praktikakohvik2022.18999dbe691735dc34a3.png",
@@ -19,7 +19,7 @@
     "static/media/HTML.png": "/static/media/HTML.df5e0bd46018a1922d17.png",
     "static/media/React JS.png": "/static/media/React JS.20adfb35ae6a6e5817bf.png",
     "static/media/Figma.png": "/static/media/Figma.76cd493c0fdfe6a1c758.png",
-    "static/media/Node.js.png": "/static/media/Node.js.9a6f0e939100caa176ed.png",
+    "static/media/Node js.png": "/static/media/Node js.9a6f0e939100caa176ed.png",
     "static/media/Adobe.png": "/static/media/Adobe.d5c75947ed210ac720f8.png",
     "static/media/LinkedIn_logo.png": "/static/media/LinkedIn_logo.7a5eab93c7daf7d2ceeb.png",
     "static/media/GitHub.png": "/static/media/GitHub.d5274b220d5aa034c351.png",
@@ -28,12 +28,12 @@
     "static/media/en_lipp.svg": "/static/media/en_lipp.099e9374154e4a21c076.svg",
     "static/media/et_lipp.svg": "/static/media/et_lipp.ec8f4e9e09baa2622c51.svg",
     "index.html": "/index.html",
-    "main.27ab6763.css.map": "/static/css/main.27ab6763.css.map",
-    "main.73baffa5.js.map": "/static/js/main.73baffa5.js.map",
+    "main.480fdabe.css.map": "/static/css/main.480fdabe.css.map",
+    "main.353a7505.js.map": "/static/js/main.353a7505.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.27ab6763.css",
-    "static/js/main.73baffa5.js"
+    "static/css/main.480fdabe.css",
+    "static/js/main.353a7505.js"
   ]
 }
