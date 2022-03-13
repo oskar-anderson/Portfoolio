@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.480fdabe.css",
-    "main.js": "/static/js/main.353a7505.js",
+    "main.js": "/static/js/main.66b332da.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/KGLan2019.png": "/static/media/KGLan2019.9f6c3d718742841757a7.png",
     "static/media/Praktikakohvik2022.png": "/static/media/Praktikakohvik2022.18999dbe691735dc34a3.png",
-    "static/media/CV_ENG.pdf": "/static/media/CV_ENG.cda2272eda5208a65c60.pdf",
-    "static/media/CV_EST.pdf": "/static/media/CV_EST.17d33a13511c513ecdd6.pdf",
+    "static/media/CV_ENG.pdf": "/static/media/CV_ENG.26a73487cf8afb751e61.pdf",
+    "static/media/CV_EST.pdf": "/static/media/CV_EST.7c58ed4e7816a8cdbcec.pdf",
     "static/media/img.png": "/static/media/img.040e4f6d022bfe8ceb8c.png",
     "static/media/profileLinkedIn.png": "/static/media/profileLinkedIn.35448cd45f65b8b8be32.png",
     "static/media/project1.jpg": "/static/media/project1.f9b67a6bef3f7afb707b.jpg",
@@ -29,11 +29,11 @@
     "static/media/et_lipp.svg": "/static/media/et_lipp.ec8f4e9e09baa2622c51.svg",
     "index.html": "/index.html",
     "main.480fdabe.css.map": "/static/css/main.480fdabe.css.map",
-    "main.353a7505.js.map": "/static/js/main.353a7505.js.map",
+    "main.66b332da.js.map": "/static/js/main.66b332da.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.480fdabe.css",
-    "static/js/main.353a7505.js"
+    "static/js/main.66b332da.js"
   ]
 }
