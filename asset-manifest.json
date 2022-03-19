@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.a4faf047.css",
-    "main.js": "/static/js/main.4b5fc3a6.js",
+    "main.js": "/static/js/main.30788883.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/KGLan2019.png": "/static/media/KGLan2019.9f6c3d718742841757a7.png",
-    "static/media/Praktikakohvik2022.png": "/static/media/Praktikakohvik2022.18999dbe691735dc34a3.png",
+    "static/media/Praktikakohvik2022.png": "/static/media/Praktikakohvik2022.d1c236324f48394cd896.png",
     "static/media/CV_ENG.pdf": "/static/media/CV_ENG.26a73487cf8afb751e61.pdf",
     "static/media/CV_EST.pdf": "/static/media/CV_EST.7c58ed4e7816a8cdbcec.pdf",
     "static/media/img.png": "/static/media/img.040e4f6d022bfe8ceb8c.png",
@@ -13,7 +13,7 @@
     "static/media/Montserrat-Bold.ttf": "/static/media/Montserrat-Bold.079ca05d3ded9bc107ab.ttf",
     "static/media/Montserrat-Medium.ttf": "/static/media/Montserrat-Medium.e2d60bc49517598c0ce8.ttf",
     "static/media/Montserrat-Light.ttf": "/static/media/Montserrat-Light.02afb26fe72fcc052988.ttf",
-    "static/media/project2.jpg": "/static/media/project2.7255c08267b70e9959e9.jpg",
+    "static/media/project2.jpg": "/static/media/project2.62c939c03ad4205bd26c.jpg",
     "static/media/CSharp.png": "/static/media/CSharp.b5ac2de8fa6ef1aef795.png",
     "static/media/GitBash.png": "/static/media/GitBash.0220913f7343ab46f630.png",
     "static/media/HTML.png": "/static/media/HTML.df5e0bd46018a1922d17.png",
@@ -29,11 +29,11 @@
     "static/media/et_lipp.svg": "/static/media/et_lipp.ec8f4e9e09baa2622c51.svg",
     "index.html": "/index.html",
     "main.a4faf047.css.map": "/static/css/main.a4faf047.css.map",
-    "main.4b5fc3a6.js.map": "/static/js/main.4b5fc3a6.js.map",
+    "main.30788883.js.map": "/static/js/main.30788883.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a4faf047.css",
-    "static/js/main.4b5fc3a6.js"
+    "static/js/main.30788883.js"
   ]
 }
